@@ -479,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\learning-projects\\csharp-dotnet7-features\\csharp-dotnet7-features.csproj",
-      "projectName": "csharp-dotnet7-features",
-      "projectPath": "D:\\Github\\learning-projects\\csharp-dotnet7-features\\csharp-dotnet7-features.csproj",
+      "projectUniqueName": "D:\\Github\\learning-projects\\integrateOPENAI\\integrateOPENAI.csproj",
+      "projectName": "integrateOPENAI",
+      "projectPath": "D:\\Github\\learning-projects\\integrateOPENAI\\integrateOPENAI.csproj",
       "packagesPath": "C:\\Users\\Stelea\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\learning-projects\\csharp-dotnet7-features\\obj\\",
+      "outputPath": "D:\\Github\\learning-projects\\integrateOPENAI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stelea\\AppData\\Roaming\\NuGet\\NuGet.Config",

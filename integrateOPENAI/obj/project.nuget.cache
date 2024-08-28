@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M/DuJYI5OyjZnMS62MihMpUixKblfJn8q8ZhYhIVvaLKvjDGMPoymCXE1qgerAKB/HI2lM51ncTjO5t9PXRK2g==",
+  "dgSpecHash": "2Mr/ZJvk+/5n8zIyFvjgR/VJqLvHhXx3j36VfNGWwmhhK030IQ1hs9XyEmOutYKxpo+YPZj1s6CPstjPtQ/+Zg==",
   "success": true,
-  "projectFilePath": "D:\\Github\\learning-projects\\csharp-dotnet7-features\\csharp-dotnet7-features.csproj",
+  "projectFilePath": "D:\\Github\\learning-projects\\integrateOPENAI\\integrateOPENAI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stelea\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Stelea\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
