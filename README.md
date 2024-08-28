@@ -1,0 +1,1 @@
+This repository contains various projects that I have created while learning different programming languages and frameworks. Each project is organized in its own subfolder and has its own README with more details.
