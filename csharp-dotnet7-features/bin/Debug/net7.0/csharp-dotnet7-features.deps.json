@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "csharp-dotnet7-features/1.0.0": {
+        "runtime": {
+          "csharp-dotnet7-features.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-dotnet7-features/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

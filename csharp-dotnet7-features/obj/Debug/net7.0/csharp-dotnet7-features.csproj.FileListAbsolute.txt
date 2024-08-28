@@ -1,0 +1,15 @@
+D:\Github\learning-projects\csharp-dotnet7-features\bin\Debug\net7.0\csharp-dotnet7-features.exe
+D:\Github\learning-projects\csharp-dotnet7-features\bin\Debug\net7.0\csharp-dotnet7-features.deps.json
+D:\Github\learning-projects\csharp-dotnet7-features\bin\Debug\net7.0\csharp-dotnet7-features.runtimeconfig.json
+D:\Github\learning-projects\csharp-dotnet7-features\bin\Debug\net7.0\csharp-dotnet7-features.dll
+D:\Github\learning-projects\csharp-dotnet7-features\bin\Debug\net7.0\csharp-dotnet7-features.pdb
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.csproj.AssemblyReference.cache
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.AssemblyInfoInputs.cache
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.AssemblyInfo.cs
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.csproj.CoreCompileInputs.cache
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.dll
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\refint\csharp-dotnet7-features.dll
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.pdb
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\csharp-dotnet7-features.genruntimeconfig.cache
+D:\Github\learning-projects\csharp-dotnet7-features\obj\Debug\net7.0\ref\csharp-dotnet7-features.dll
